@@ -5,3 +5,6 @@ h1 {
 table {
     background: antiquewhite;
 }
+img {
+    max-width: 1000px;
+}
